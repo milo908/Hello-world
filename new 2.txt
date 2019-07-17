@@ -1,0 +1,10 @@
+Application Board(Logitech ownership)
+AppBoard MCU FW
+
+Shoto Core module(Valve ownership dev by TundraLabs/Luke)
+MCU FW:watchman+bootloader+battery profile FW
+FPGA Bitstream(FW)
+Wireless MCU FW
+
+--6x different custom FW required for the final sharpie 4.0 product
+--2x JSON configuration file required
